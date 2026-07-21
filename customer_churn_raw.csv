@@ -1,0 +1,301 @@
+customer_id,age,tenure_months,monthly_charges,total_charges,contract_type,has_internet,churn
+CUST-0001,43,72,34.22,2463.84,Month-to-month,Yes,No
+CUST-0002,64,47,38.02,1786.94,Two year,Yes,No
+CUST-0003,25,32,45.74,1463.68,One year,Yes,No
+CUST-0004,49,34,64.32,2186.88,Month-to-month,Yes,Yes
+CUST-0005,33,69,108.17,7463.73,Month-to-month,Yes,No
+CUST-0006,32,54,47.11,2543.94,Month-to-month,Yes,Yes
+CUST-0007,66,14,46.30,648.20,One year,Yes,No
+CUST-0008,40,54,86.91,4693.14,Month-to-month,No,Yes
+CUST-0009,34,68,57.87,3935.16,Month-to-month,Yes,No
+CUST-0010,33,16,20.78,332.48,Two year,Yes,No
+CUST-0011,39,44,84.88,3734.72,Month-to-month,Yes,Yes
+CUST-0012,23,25,31.03,775.75,Month-to-month,Yes,No
+CUST-0013,26,65,38.14,2479.10,Month-to-month,No,No
+CUST-0014,57,8,89.87,718.96,Month-to-month,Yes,Yes
+CUST-0015,42,71,87.39,6204.69,Month-to-month,Yes,No
+CUST-0016,48,48,43.37,2081.76,Two year,Yes,No
+CUST-0017,63,48,116.58,5595.84,Month-to-month,Yes,No
+CUST-0018,53,56,26.54,1486.24,Two year,No,No
+CUST-0019,33,50,74.20,3710.00,One year,Yes,No
+CUST-0020,45,35,57.08,1997.80,One year,No,No
+CUST-0021,50,13,77.54,1008.02,Month-to-month,No,Yes
+CUST-0022,62,55,40.36,2219.80,Month-to-month,Yes,No
+CUST-0023,27,2,30.99,61.98,Month-to-month,Yes,Yes
+CUST-0024,51,57,100.04,5702.28,Month-to-month,Yes,No
+CUST-0025,18,49,99.34,4867.66,One year,No,No
+CUST-0026,32,72,75.92,5466.24,One year,Yes,No
+CUST-0027,39,5,112.22,561.10,One year,No,No
+CUST-0028,43,67,108.29,7255.43,Month-to-month,Yes,Yes
+CUST-0029,21,54,103.49,5588.46,Month-to-month,Yes,Yes
+CUST-0030,38,43,39.13,1682.59,Month-to-month,Yes,No
+CUST-0031,33,46,72.08,3315.68,Month-to-month,No,No
+CUST-0032,49,36,103.10,3711.60,Month-to-month,Yes,Yes
+CUST-0033,27,46,43.04,1979.84,Two year,No,No
+CUST-0034,65,1,56.87,56.87,One year,Yes,No
+CUST-0035,25,63,82.01,5166.63,Two year,Yes,No
+CUST-0036,30,46,62.36,2868.56,Two year,Yes,No
+CUST-0037,35,6,36.02,216.12,Month-to-month,Yes,No
+CUST-0038,25,41,54.59,2238.19,Two year,Yes,No
+CUST-0039,65,42,65.54,2752.68,One year,Yes,No
+CUST-0040,56,18,45.55,819.90,Two year,Yes,No
+CUST-0041,36,64,56.20,3596.80,Two year,Yes,No
+CUST-0042,26,50,96.19,4809.50,Two year,Yes,No
+CUST-0043,49,37,25.03,926.11,Two year,Yes,No
+CUST-0044,33,70,54.22,3795.40,Month-to-month,Yes,No
+CUST-0045,60,28,71.68,2007.04,One year,Yes,No
+CUST-0046,19,61,29.63,1807.43,One year,No,No
+CUST-0047,39,55,86.28,4745.40,Month-to-month,Yes,Yes
+CUST-0048,66,31,51.46,1595.26,Month-to-month,Yes,No
+CUST-0049,18,10,30.78,307.80,Two year,Yes,No
+CUST-0050,40,46,96.88,4456.48,Month-to-month,Yes,No
+CUST-0051,61,26,36.65,952.90,Month-to-month,Yes,No
+CUST-0052,21,4,81.14,324.56,Month-to-month,Yes,Yes
+CUST-0053,31,51,81.47,4154.97,Two year,No,No
+CUST-0054,59,8,64.39,515.12,Month-to-month,Yes,Yes
+CUST-0055,30,44,104.96,4618.24,One year,Yes,Yes
+CUST-0056,49,28,26.39,738.92,Two year,Yes,No
+CUST-0057,55,30,33.44,1003.20,One year,Yes,No
+CUST-0058,65,55,66.25,3643.75,Month-to-month,Yes,Yes
+CUST-0059,47,40,38.34,1533.60,One year,Yes,No
+CUST-0060,62,21,43.86,921.06,One year,Yes,No
+CUST-0061,18,61,94.24,5748.64,Two year,Yes,No
+CUST-0062,25,67,106.16,7112.72,One year,Yes,No
+CUST-0063,65,66,89.39,5899.74,Month-to-month,Yes,No
+CUST-0064,61,55,36.73,2020.15,One year,Yes,No
+CUST-0065,32,23,86.57,1991.11,One year,Yes,No
+CUST-0066,48,32,117.72,3767.04,One year,Yes,No
+CUST-0067,18,37,112.72,4170.64,One year,Yes,No
+CUST-0068,46,11,60.61,666.71,Month-to-month,Yes,Yes
+CUST-0069,49,39,117.83,4595.37,Month-to-month,Yes,Yes
+CUST-0070,27,49,54.43,2667.07,Month-to-month,Yes,No
+CUST-0071,51,43,41.60,1788.80,Month-to-month,Yes,Yes
+CUST-0072,43,4,100.03,400.12,One year,Yes,No
+CUST-0073,56,44,96.60,4250.40,One year,No,No
+CUST-0074,34,11,86.96,956.56,Month-to-month,Yes,Yes
+CUST-0075,22,14,48.79,683.06,Month-to-month,Yes,Yes
+CUST-0076,57,3,70.55,211.65,One year,Yes,No
+CUST-0077,63,50,52.64,2632.00,Two year,Yes,No
+CUST-0078,64,55,82.52,4538.60,One year,Yes,No
+CUST-0079,50,36,40.36,1452.96,Month-to-month,No,No
+CUST-0080,29,65,90.61,5889.65,Month-to-month,Yes,Yes
+CUST-0081,20,61,37.76,2303.36,Two year,Yes,No
+CUST-0082,26,1,21.67,21.67,Two year,No,No
+CUST-0083,23,3,65.48,196.44,Month-to-month,Yes,No
+CUST-0084,55,19,49.81,946.39,Month-to-month,Yes,No
+CUST-0085,60,12,20.87,250.44,Month-to-month,Yes,No
+CUST-0086,25,6,43.80,262.80,Two year,Yes,No
+CUST-0087,66,53,86.28,4572.84,One year,Yes,No
+CUST-0088,28,20,34.15,683.00,One year,Yes,No
+CUST-0089,62,27,92.33,2492.91,Two year,Yes,No
+CUST-0090,46,23,26.22,603.06,Month-to-month,Yes,Yes
+CUST-0091,64,37,44.93,1662.41,Month-to-month,Yes,No
+CUST-0092,49,58,49.94,2896.52,Month-to-month,No,No
+CUST-0093,36,37,30.71,1136.27,One year,Yes,No
+CUST-0094,31,12,100.61,1207.32,Month-to-month,Yes,Yes
+CUST-0095,41,62,62.12,3851.44,One year,Yes,No
+CUST-0096,29,54,49.38,2666.52,One year,Yes,No
+CUST-0097,48,42,43.02,1806.84,Two year,No,No
+CUST-0098,31,51,49.67,2533.17,Month-to-month,Yes,No
+CUST-0099,18,2,33.06,66.12,Month-to-month,Yes,Yes
+CUST-0100,48,31,86.14,2670.34,Two year,Yes,No
+CUST-0101,28,60,50.15,3009.00,Month-to-month,No,No
+CUST-0102,42,38,43.38,1648.44,One year,Yes,No
+CUST-0103,65,1,42.99,42.99,Month-to-month,Yes,Yes
+CUST-0104,56,70,78.27,5478.90,Month-to-month,Yes,No
+CUST-0105,23,33,60.46,1995.18,Month-to-month,Yes,No
+CUST-0106,53,34,116.48,3960.32,Month-to-month,Yes,Yes
+CUST-0107,60,48,99.92,4796.16,One year,Yes,No
+CUST-0108,38,27,108.30,2924.10,Month-to-month,Yes,Yes
+CUST-0109,53,41,71.91,2948.31,Two year,No,No
+CUST-0110,40,68,37.75,2567.00,Month-to-month,No,No
+CUST-0111,35,50,40.07,2003.50,One year,Yes,No
+CUST-0112,65,49,97.60,4782.40,One year,Yes,No
+CUST-0113,29,44,32.45,1427.80,Month-to-month,Yes,No
+CUST-0114,59,72,56.90,4096.80,Month-to-month,Yes,Yes
+CUST-0115,25,21,88.27,1853.67,Two year,Yes,Yes
+CUST-0116,57,41,23.29,954.89,One year,Yes,No
+CUST-0117,35,66,52.37,3456.42,Month-to-month,Yes,Yes
+CUST-0118,57,58,63.51,3683.58,One year,Yes,No
+CUST-0119,49,4,104.71,418.84,Month-to-month,No,Yes
+CUST-0120,67,14,72.67,1017.38,Two year,Yes,No
+CUST-0121,19,9,24.93,224.37,Month-to-month,Yes,Yes
+CUST-0122,18,67,59.55,3989.85,Month-to-month,Yes,No
+CUST-0123,26,45,77.09,3469.05,Month-to-month,Yes,No
+CUST-0124,47,24,32.19,772.56,One year,Yes,No
+CUST-0125,18,68,117.35,7979.80,Month-to-month,Yes,No
+CUST-0126,50,47,116.10,5456.70,Two year,Yes,Yes
+CUST-0127,25,51,92.24,4704.24,Two year,No,No
+CUST-0128,38,12,47.74,572.88,Two year,Yes,No
+CUST-0129,27,60,118.75,7125.00,Month-to-month,Yes,Yes
+CUST-0130,67,1,49.55,49.55,Month-to-month,Yes,Yes
+CUST-0131,24,63,98.87,6228.81,Two year,Yes,No
+CUST-0132,35,22,40.00,880.00,Month-to-month,Yes,No
+CUST-0133,54,58,62.27,3611.66,Two year,Yes,No
+CUST-0134,25,59,35.55,2097.45,Two year,Yes,No
+CUST-0135,41,2,92.39,184.78,One year,Yes,No
+CUST-0136,19,62,85.71,5314.02,Two year,Yes,No
+CUST-0137,25,41,50.58,2073.78,Two year,Yes,No
+CUST-0138,45,22,96.67,2126.74,Month-to-month,Yes,Yes
+CUST-0139,18,44,95.83,4216.52,Month-to-month,Yes,No
+CUST-0140,34,60,69.29,4157.40,Month-to-month,No,No
+CUST-0141,31,16,110.04,1760.64,Two year,No,Yes
+CUST-0142,36,59,78.29,4619.11,Month-to-month,Yes,No
+CUST-0143,66,31,97.31,3016.61,Month-to-month,Yes,No
+CUST-0144,46,41,81.56,3343.96,One year,Yes,No
+CUST-0145,30,51,26.49,1350.99,Month-to-month,Yes,Yes
+CUST-0146,50,25,35.06,876.50,Two year,Yes,No
+CUST-0147,23,55,97.40,5357.00,Two year,Yes,No
+CUST-0148,19,11,65.14,716.54,One year,Yes,No
+CUST-0149,61,48,76.55,3674.40,One year,Yes,No
+CUST-0150,57,11,95.83,1054.13,Month-to-month,Yes,Yes
+CUST-0151,47,1,79.68,79.68,Two year,Yes,Yes
+CUST-0152,49,60,57.82,3469.20,One year,Yes,No
+CUST-0153,67,50,35.71,1785.50,Month-to-month,No,No
+CUST-0154,30,14,103.49,1448.86,Month-to-month,No,No
+CUST-0155,48,63,41.37,2606.31,One year,Yes,No
+CUST-0156,33,40,47.77,1910.80,One year,Yes,No
+CUST-0157,40,67,58.93,3948.31,One year,No,No
+CUST-0158,37,10,118.33,1183.30,Two year,Yes,No
+CUST-0159,39,40,73.45,2938.00,Month-to-month,No,No
+CUST-0160,53,41,102.71,4211.11,One year,Yes,No
+CUST-0161,42,72,109.81,7906.32,Month-to-month,Yes,No
+CUST-0162,51,25,40.43,1010.75,One year,Yes,No
+CUST-0163,46,29,57.78,1675.62,Month-to-month,No,Yes
+CUST-0164,47,53,103.94,5508.82,Two year,Yes,No
+CUST-0165,30,4,26.27,105.08,Month-to-month,Yes,No
+CUST-0166,20,14,30.91,432.74,Month-to-month,Yes,Yes
+CUST-0167,23,61,92.80,5660.80,Two year,Yes,No
+CUST-0168,64,59,81.78,4825.02,Month-to-month,Yes,Yes
+CUST-0169,58,59,113.15,6675.85,One year,Yes,No
+CUST-0170,67,49,107.94,5289.06,Two year,Yes,No
+CUST-0171,19,11,117.39,1291.29,Two year,Yes,No
+CUST-0172,22,56,36.70,2055.20,Month-to-month,Yes,Yes
+CUST-0173,27,18,52.89,952.02,Two year,Yes,Yes
+CUST-0174,61,58,106.97,6204.26,Two year,Yes,No
+CUST-0175,53,2,57.50,115.00,Month-to-month,Yes,Yes
+CUST-0176,61,43,74.74,3213.82,One year,Yes,No
+CUST-0177,35,16,83.15,1330.40,Month-to-month,No,Yes
+CUST-0178,31,51,82.77,4221.27,Month-to-month,Yes,No
+CUST-0179,36,1,67.09,67.09,Month-to-month,Yes,Yes
+CUST-0180,54,23,74.90,1722.70,Month-to-month,No,No
+CUST-0181,19,55,34.14,1877.70,One year,Yes,No
+CUST-0182,25,27,55.23,1491.21,Month-to-month,No,No
+CUST-0183,27,52,96.02,4993.04,One year,Yes,No
+CUST-0184,30,6,89.45,536.70,Month-to-month,Yes,Yes
+CUST-0185,48,28,69.76,1953.28,Month-to-month,Yes,No
+CUST-0186,52,55,53.76,2956.80,Month-to-month,Yes,No
+CUST-0187,62,4,50.26,201.04,Month-to-month,No,Yes
+CUST-0188,48,21,98.41,2066.61,Two year,No,No
+CUST-0189,49,43,90.20,3878.60,Month-to-month,Yes,Yes
+CUST-0190,56,67,42.54,2850.18,Two year,Yes,No
+CUST-0191,25,71,97.45,6918.95,One year,Yes,No
+CUST-0192,51,52,55.66,2894.32,Month-to-month,Yes,No
+CUST-0193,58,13,85.07,1105.91,Month-to-month,Yes,Yes
+CUST-0194,31,53,92.55,4905.15,Month-to-month,Yes,Yes
+CUST-0195,40,66,33.65,2220.90,One year,Yes,No
+CUST-0196,49,15,86.11,1291.65,Month-to-month,No,No
+CUST-0197,54,50,75.39,3769.50,Month-to-month,Yes,No
+CUST-0198,65,2,47.30,94.60,Month-to-month,Yes,Yes
+CUST-0199,59,3,106.82,320.46,One year,Yes,No
+CUST-0200,61,58,37.45,2172.10,Two year,Yes,No
+CUST-0201,47,65,50.88,3307.20,Month-to-month,Yes,No
+CUST-0202,64,1,98.30,98.30,Month-to-month,No,No
+CUST-0203,32,35,102.57,3589.95,Two year,Yes,No
+CUST-0204,48,3,22.57,67.71,Two year,No,No
+CUST-0205,24,54,53.70,2899.80,One year,Yes,No
+CUST-0206,64,24,114.04,2736.96,One year,No,No
+CUST-0207,67,27,116.27,3139.29,Month-to-month,Yes,Yes
+CUST-0208,54,47,58.22,2736.34,Month-to-month,Yes,Yes
+CUST-0209,65,55,109.21,6006.55,Month-to-month,Yes,Yes
+CUST-0210,59,12,59.95,719.40,Two year,No,No
+CUST-0211,62,39,52.48,2046.72,Month-to-month,Yes,Yes
+CUST-0212,55,36,79.11,2847.96,Two year,Yes,No
+CUST-0213,49,37,118.53,4385.61,Two year,No,No
+CUST-0214,62,52,112.71,5860.92,One year,Yes,No
+CUST-0215,34,58,107.52,6236.16,Month-to-month,No,Yes
+CUST-0216,48,27,91.52,2471.04,Month-to-month,Yes,No
+CUST-0217,41,45,114.37,5146.65,One year,Yes,No
+CUST-0218,40,21,36.90,774.90,One year,Yes,No
+CUST-0219,22,11,82.93,912.23,Month-to-month,Yes,Yes
+CUST-0220,55,53,65.65,3479.45,Two year,Yes,No
+CUST-0221,18,27,60.49,1633.23,One year,No,No
+CUST-0222,49,22,69.10,1520.20,Month-to-month,Yes,No
+CUST-0223,25,44,105.09,4623.96,Month-to-month,No,No
+CUST-0224,33,72,34.88,2511.36,Month-to-month,Yes,No
+CUST-0225,46,47,47.86,2249.42,Month-to-month,Yes,Yes
+CUST-0226,26,66,92.62,6112.92,Month-to-month,Yes,Yes
+CUST-0227,63,60,105.93,6355.80,Two year,Yes,No
+CUST-0228,46,22,111.50,2453.00,Month-to-month,Yes,No
+CUST-0229,41,25,27.69,692.25,One year,Yes,No
+CUST-0230,67,48,27.40,1315.20,Two year,Yes,No
+CUST-0231,62,18,35.86,645.48,Two year,Yes,No
+CUST-0232,26,69,75.49,5208.81,Two year,Yes,No
+CUST-0233,28,27,119.97,3239.19,Month-to-month,Yes,Yes
+CUST-0234,64,23,79.14,1820.22,Month-to-month,Yes,Yes
+CUST-0235,65,35,108.02,3780.70,Two year,Yes,No
+CUST-0236,43,43,88.92,3823.56,One year,Yes,No
+CUST-0237,41,28,113.92,3189.76,Month-to-month,Yes,No
+CUST-0238,21,49,27.41,1343.09,Two year,Yes,No
+CUST-0239,47,48,117.88,5658.24,Month-to-month,Yes,No
+CUST-0240,55,46,88.76,4082.96,One year,Yes,No
+CUST-0241,66,41,27.81,1140.21,One year,Yes,No
+CUST-0242,47,49,67.10,3287.90,Month-to-month,Yes,No
+CUST-0243,42,52,22.56,1173.12,Month-to-month,Yes,No
+CUST-0244,47,41,48.02,1968.82,One year,Yes,No
+CUST-0245,66,70,87.13,6099.10,Month-to-month,No,Yes
+CUST-0246,43,6,83.76,502.56,Two year,Yes,Yes
+CUST-0247,58,1,29.79,29.79,Two year,Yes,No
+CUST-0248,61,50,81.69,4084.50,Month-to-month,Yes,Yes
+CUST-0249,20,64,64.09,4101.76,Month-to-month,Yes,No
+CUST-0250,45,58,89.88,5213.04,One year,Yes,No
+CUST-0251,18,16,90.87,1453.92,One year,Yes,No
+CUST-0252,20,58,32.27,1871.66,Month-to-month,Yes,No
+CUST-0253,41,35,55.55,1944.25,Two year,Yes,No
+CUST-0254,66,9,49.97,449.73,Month-to-month,Yes,No
+CUST-0255,19,48,42.20,2025.60,Two year,Yes,No
+CUST-0256,32,68,36.86,2506.48,Month-to-month,Yes,No
+CUST-0257,62,65,23.14,1504.10,Month-to-month,Yes,No
+CUST-0258,60,48,47.64,2286.72,Month-to-month,Yes,Yes
+CUST-0259,21,29,88.42,2564.18,Month-to-month,Yes,No
+CUST-0260,63,24,41.96,1007.04,Two year,Yes,No
+CUST-0261,55,56,28.07,1571.92,Month-to-month,Yes,No
+CUST-0262,42,28,48.55,1359.40,Two year,Yes,No
+CUST-0263,36,3,41.85,125.55,Month-to-month,No,Yes
+CUST-0264,33,5,34.33,171.65,Month-to-month,No,Yes
+CUST-0265,65,23,70.50,1621.50,Month-to-month,Yes,Yes
+CUST-0266,22,45,99.23,4465.35,Month-to-month,Yes,No
+CUST-0267,35,17,115.45,1962.65,One year,Yes,Yes
+CUST-0268,42,20,76.11,1522.20,Month-to-month,Yes,Yes
+CUST-0269,38,68,101.14,6877.52,Month-to-month,Yes,No
+CUST-0270,39,54,79.21,4277.34,Two year,Yes,No
+CUST-0271,60,18,32.20,579.60,One year,No,Yes
+CUST-0272,32,54,119.82,6470.28,One year,No,Yes
+CUST-0273,31,22,117.41,2583.02,Month-to-month,No,Yes
+CUST-0274,19,57,94.17,5367.69,One year,Yes,No
+CUST-0275,56,7,81.58,571.06,Month-to-month,Yes,Yes
+CUST-0276,24,25,101.26,2531.50,Two year,Yes,No
+CUST-0277,50,37,67.04,2480.48,Two year,Yes,No
+CUST-0278,39,55,90.45,4974.75,Two year,Yes,No
+CUST-0279,21,18,26.89,484.02,Month-to-month,No,No
+CUST-0280,23,58,50.86,2949.88,Month-to-month,No,Yes
+CUST-0281,52,72,58.23,4192.56,One year,No,No
+CUST-0282,57,47,37.72,1772.84,Month-to-month,Yes,No
+CUST-0283,20,12,106.35,1276.20,Month-to-month,No,Yes
+CUST-0284,39,48,51.29,2461.92,Two year,Yes,No
+CUST-0285,36,11,111.14,1222.54,One year,Yes,No
+CUST-0286,37,21,43.62,916.02,Two year,No,No
+CUST-0287,47,60,114.25,6855.00,Month-to-month,Yes,Yes
+CUST-0288,59,21,99.64,2092.44,Month-to-month,Yes,Yes
+CUST-0289,36,42,71.86,3018.12,Month-to-month,No,Yes
+CUST-0290,31,3,62.65,187.95,Two year,Yes,No
+CUST-0291,34,53,43.94,2328.82,Two year,Yes,No
+CUST-0292,25,69,34.20,2359.80,Month-to-month,Yes,Yes
+CUST-0293,61,8,111.66,893.28,Two year,Yes,No
+CUST-0294,64,59,52.75,3112.25,Two year,Yes,No
+CUST-0295,57,38,20.63,783.94,Two year,Yes,No
+CUST-0296,50,47,25.60,1203.20,Two year,Yes,No
+CUST-0297,39,24,71.63,1719.12,One year,No,No
+CUST-0298,45,36,32.24,1160.64,Month-to-month,Yes,No
+CUST-0299,63,43,103.92,4468.56,Month-to-month,Yes,Yes
+CUST-0300,39,6,49.02,294.12,One year,No,No
